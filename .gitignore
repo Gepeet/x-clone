@@ -10,6 +10,19 @@
 .svn/
 migrate_working_dir/
 
+# Firebase specific
+# Firebase generated files
+firebase.log
+firebase.html
+firebase.js
+firebase.json
+firebase.preprocessed.html
+firebase.preprocessed.js
+firebase.tsconfig.json
+firebase.eslintcache
+firebase.timestamp
+lib/firebase_options.dart
+
 # IntelliJ related
 *.iml
 *.ipr
