@@ -12,6 +12,7 @@ migrate_working_dir/
 
 # Firebase specific
 # Firebase generated files
+google-services.json
 firebase.log
 firebase.html
 firebase.js
@@ -22,6 +23,7 @@ firebase.tsconfig.json
 firebase.eslintcache
 firebase.timestamp
 lib/firebase_options.dart
+
 
 # IntelliJ related
 *.iml
@@ -54,3 +56,4 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+/android

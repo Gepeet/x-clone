@@ -71,6 +71,7 @@ class _HomePageState extends State<HomePage> {
                 itemCount: postList.length,
                 itemBuilder: 
               (context, index){
+
                 //get individual document
                 DocumentSnapshot document = postList[index];
                 String docID = document.id;
